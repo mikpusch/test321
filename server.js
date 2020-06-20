@@ -1,5 +1,5 @@
 //  OpenShift sample Node application
-const AppIsLocal = true;
+const AppIsLocal = false;
 
 var express = require('express');
 var app     = express();
